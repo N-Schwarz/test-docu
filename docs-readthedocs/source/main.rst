@@ -1,6 +1,6 @@
 Simple Python Program
 =====================
-
+See the second page :doc:`Second page <page2>`
 Overview
 --------
 
