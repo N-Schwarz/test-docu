@@ -27,3 +27,8 @@ if __name__ == "__main__":
 name = input("Enter your name: ")
 print(f"Hello, {name}! Nice to meet you.")
 ```
+
+<figure>
+  <img src="test-image.jfif" alt="Description of image" width="500">
+  <figcaption>This is a caption for the image</figcaption>
+</figure>
