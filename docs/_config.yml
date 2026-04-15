@@ -1,6 +1,6 @@
 title: My Docs Site
 description: Documentation example
-theme: minima
+theme: just-the-docs
 
 collections:
   docs:
