@@ -1,0 +1,7 @@
+title: My Docs Site
+description: Documentation example
+theme: minima
+
+collections:
+  docs:
+    output: true
