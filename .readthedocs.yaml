@@ -9,14 +9,20 @@ build:
 
 # Sphinx configuration
 sphinx:
-  configuration: docs/source/conf.py
+  configuration: docs-readthedocs/source/conf.py
 
 # Python environment setup
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: docs-readthedocs/requirements.txt
 
 # Optional: formats to build
 formats:
   - htmlzip
   - pdf
+
+html_logo = "mtest-image.jfif"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
