@@ -6,3 +6,4 @@ Welcome to Example Program's documentation!
    :caption: Contents:
 
    main
+   page2
