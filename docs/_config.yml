@@ -1,11 +1,12 @@
 title: My Docs Site
 description: Documentation example
 theme: just-the-docs
-
+remote_theme: just-the-docs/just-the-docs
 collections:
   docs:
     output: true
-
+plugins:
+  - jekyll-remote-theme
 logo: "test-image.jfif"
 
 
