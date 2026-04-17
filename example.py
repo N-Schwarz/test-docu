@@ -3,5 +3,6 @@ def main():
     print("This is a simple Python program.")
     print("2 + 2 =", 2 + 2)
     print("I changed something")
+    print("Now we will change the same file")
 if __name__ == "__main__":
     main()
